@@ -1,5 +1,2 @@
 this is a test page£¬
-please use git push
-
-
-·ÅËÉ·ÅËÉ
+please use git push 
